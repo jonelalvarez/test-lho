@@ -1,0 +1,1 @@
+SELECT * FROM lho.lho_test_tbl;

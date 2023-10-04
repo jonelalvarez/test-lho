@@ -1,0 +1,1 @@
+SELECT * FROM lho.cps_test_tbl;

@@ -1,0 +1,1 @@
+SELECT * FROM lho.citizen_tbl;

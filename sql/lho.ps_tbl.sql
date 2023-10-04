@@ -1,0 +1,1 @@
+SELECT * FROM lho.ps_tbl;
